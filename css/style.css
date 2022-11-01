@@ -141,9 +141,7 @@ header.shadow {
   padding: 0.7rem 1.3rem;
   border-radius: 0.5rem;
 }
-.btn:hover {
-  background: var(--hover);
-}
+
  
 
 .about-container {
@@ -483,3 +481,19 @@ form textarea {
     margin-left: 25%;
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
